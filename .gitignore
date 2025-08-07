@@ -1,0 +1,10 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore environment file
+backend/.env
+
+# (Optional) Ignore OS or editor files
+__pycache__/
+*.pyc
+.DS_Store
